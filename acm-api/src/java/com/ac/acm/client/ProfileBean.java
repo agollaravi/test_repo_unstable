@@ -8,4 +8,5 @@ public class ProfileBean {
 	public void add(){
 		System.out.println("add");
 	}
+	//add new line for merge conflict
 }
