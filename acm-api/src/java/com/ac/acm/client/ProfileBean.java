@@ -4,4 +4,8 @@ public class ProfileBean {
 
 	//profile bean class
 	//new profile bean
+	
+	public void add(){
+		System.out.println("add");
+	}
 }
