@@ -1,6 +1,6 @@
 package com.ac.acm.agent;
 
-public class ServiceImpl {
+public class ServiceImplTest {
 
 	//temporary class
 }
